@@ -269,8 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact Us
 
 - 🐛 **Bug Reports**: [Issues Page](https://github.com/your-username/ComfyUI_GLM4V_voltspark/issues)
-- 💡 **Feature Requests**: [Discussions Page](https://github.com/your-username/ComfyUI_GLM4V_voltspark/discussions)
-- 📧 **Email Contact**: your-email@example.com
+- 📧 **Email Contact**: linjian257@gmail.com
 
 ## 📈 Changelog
 
