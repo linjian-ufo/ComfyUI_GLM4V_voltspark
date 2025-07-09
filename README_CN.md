@@ -47,6 +47,8 @@ cd ComfyUI_GLM4V_voltspark
 2. **安装依赖**
 ```bash
 pip install -r requirements.txt
+或者
+你的comfyui目录\python_embeded\python.exe -m pip install -r 你的comfyui目录\custom_nodes\ComfyUI_GLM4V_voltspark\requirements.txt --index-url https://mirrors.aliyun.com/pypi/simple
 
 # 升级transformers库到最新版本（推荐）
 python -m pip install git+https://github.com/huggingface/transformers.git
