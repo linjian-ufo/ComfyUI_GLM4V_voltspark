@@ -269,7 +269,6 @@ black . --line-length 88
 ## 📞 联系我们
 
 - 🐛 **Bug报告**: [Issues页面](https://github.com/your-username/ComfyUI_GLM4V_voltspark/issues)
-- 💡 **功能建议**: [Discussions页面](https://github.com/your-username/ComfyUI_GLM4V_voltspark/discussions)
 - 📧 **邮件联系**: your-email@example.com
 
 ## 📈 更新日志
