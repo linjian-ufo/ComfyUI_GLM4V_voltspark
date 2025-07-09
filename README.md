@@ -26,6 +26,9 @@
 **Output File**: `sunset_beach.txt`  
 **Content**: "A breathtaking sunset scene over a serene beach with golden sand, where gentle waves lap against the shore while vibrant orange and pink hues paint the sky, creating a peaceful and romantic atmosphere."
 https://github.com/linjian-ufo/ComfyUI_GLM4V_voltspark/blob/main/Example/%E5%8D%95%E5%9B%BE%E5%8F%8D%E6%8E%A8-%E6%89%B9%E9%87%8F%E6%89%93%E6%A0%87.png
+![单图反推-批量打标](https://github.com/user-attachments/assets/07bfad69-1337-44b4-8773-d9643e3a9db8)
+
+
 ## 🚀 Quick Start
 
 ### System Requirements
