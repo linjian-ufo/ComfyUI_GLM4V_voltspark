@@ -7,7 +7,7 @@
 
 > 🚀 **Professional AI Image Description Generator**  
 > Based on Zhipu AI GLM-4V multimodal model, batch generate accurate and detailed descriptions for images in Chinese and English
-
+> The author's WeChat account is:linyu9418 and linjian257
 ## ✨ Core Features
 
 - 🎯 **Smart Batch Processing** - Process entire folders of images with one click
