@@ -1,0 +1,53 @@
+# GLM-4V 图片描述生成器 依赖包
+# GLM-4V Image Descriptor Dependencies
+
+# 核心依赖 - Core Dependencies
+torch>=2.0.0                    # PyTorch深度学习框架 / PyTorch deep learning framework
+transformers==4.54.0            # Hugging Face Transformers库 / Hugging Face Transformers library
+accelerate>=0.21.0               # 模型加速库 / Model acceleration library
+bitsandbytes>=0.41.0            # 量化支持库 / Quantization support library
+
+# 图像处理 - Image Processing
+Pillow>=9.0.0                   # Python图像处理库 / Python Image Library
+numpy>=1.21.0                   # 数值计算库 / Numerical computing library
+
+# GUI界面 - GUI Interface
+# tkinter - 内置在Python标准库中 / Built-in Python standard library
+
+# 文件路径处理 - File Path Handling
+pathlib                         # 路径处理库（Python 3.4+内置） / Path handling library (built-in Python 3.4+)
+
+# 多线程支持 - Multi-threading Support
+threading                       # 线程库（Python内置） / Threading library (built-in Python)
+
+# 正则表达式 - Regular Expression
+re                             # 正则表达式库（Python内置） / Regular expression library (built-in Python)
+
+# JSON处理 - JSON Processing
+json                           # JSON处理库（Python内置） / JSON processing library (built-in Python)
+
+# CSV处理 - CSV Processing
+csv                            # CSV处理库（Python内置） / CSV processing library (built-in Python)
+
+# 时间处理 - Time Processing
+time                           # 时间库（Python内置） / Time library (built-in Python)
+
+# 操作系统接口 - OS Interface
+os                             # 操作系统接口（Python内置） / OS interface (built-in Python)
+
+# 文件模式匹配 - File Pattern Matching
+glob                           # 文件名模式匹配（Python内置） / Filename pattern matching (built-in Python)
+
+# 额外推荐 - Additional Recommendations
+sentencepiece>=0.1.97          # 文本分词器 / Text tokenizer
+protobuf>=3.20.0               # Protocol Buffers支持 / Protocol Buffers support
+
+# 可选GPU加速 - Optional GPU Acceleration
+# 以下依赖根据您的CUDA版本选择安装 / Choose based on your CUDA version
+# torch-audio  # 如需音频处理 / For audio processing if needed
+# torchvision  # 如需计算机视觉 / For computer vision if needed
+
+# 开发工具 - Development Tools (Optional)
+# jupyter>=1.0.0              # Jupyter Notebook支持 / Jupyter Notebook support
+# matplotlib>=3.5.0           # 数据可视化 / Data visualization
+# tqdm>=4.64.0                # 进度条 / Progress bar 
