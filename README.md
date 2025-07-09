@@ -144,7 +144,7 @@ ComfyUI/
 | Model Name | Size | Features | Recommended Use |
 |------------|------|----------|-----------------|
 | `glmv4_4bit` | ~6.7GB | 4-bit quantization, fast speed | Daily batch processing |
-| `GLM-4.1V-9B-Thinking` | ~8.0GB | Full precision, high quality | High-quality descriptions |
+| `GLM-4.1V-9B-Thinking` | ~12.0GB | Full precision, high quality | High-quality descriptions |
 
 ## 🛠️ Advanced Features
 
