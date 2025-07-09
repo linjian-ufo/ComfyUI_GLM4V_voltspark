@@ -46,6 +46,8 @@ cd ComfyUI_GLM4V_voltspark
 2. **Install Dependencies**
 ```bash
 pip install -r requirements.txt
+or
+your_path\python_embeded\python.exe -m pip install -r your_path\custom_nodes\ComfyUI_GLM4V_voltspark\requirements.txt --index-url https://mirrors.aliyun.com/pypi/simple
 
 # Upgrade transformers library to latest version (recommended)
 python -m pip install git+https://github.com/huggingface/transformers.git
